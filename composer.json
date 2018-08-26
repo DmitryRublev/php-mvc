@@ -1,4 +1,6 @@
 {
+    "name":"php-mvc",
+    "description":"An PHP MVC example implementation by Dave H."
     "require": {
         "twig/twig": "~2.0"
     },
